@@ -1,0 +1,15 @@
+h1{
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: blue;
+}
+
+.card{
+border: 2px solid rgb(114, 112, 186);
+border-radius: 10px;
+width: 40%;
+text-align: center;
+margin-left: 28%;
+margin-top: 150px;
+}
